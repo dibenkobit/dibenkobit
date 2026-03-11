@@ -1,4 +1,4 @@
-On-hands EM at [Tele2 Kazakhstan](https://tele2.kz/).
+On-hands EM at [Tele2 Kazakhstan](https://tele2.kz/). Love building things that are useful.
 
 ## Current Projects
 
