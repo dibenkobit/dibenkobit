@@ -1,16 +1,20 @@
-## Hi there 👋
+On-hands EM @ [Tele2 Kazakhstan](https://tele2.kz/).
 
-<!--
-**dibenkobit/dibenkobit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current Projects
 
-Here are some ideas to get you started:
+### Products
+- **[Concilium](https://concilium.network)** — Instead of asking one chatbot, get a debated, challenged, thoughtful answer from council of AI's.
+- **[ExoForm](https://github.com/ExoForm)** - Voice-to-Voice feels like real interview prep with AI.
+- **[SoundsRight](https://github.com/Sounds-Right-App)** - A mobile application to train your English pronounciation on any your voice memo (e.g. reading a book out loud).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### LLMs
+- **[LangGap](https://github.com/dibenkobit/lang-gap)** — Measures performance differences on different tasks when prompts are written in different languages.
+- **[rateAprompt](https://github.com/dibenkobit/rate-a-prompt)** — A tool for comparing system prompt's quality.
+- **[Solaris](https://github.com/dibenkobit/solaris)** — An MCP server that allows agents to access their "private" diary that they think "no one can see".
+
+## History
+
+### Products
+- **[Photon Solutions](https://github.com/photon-development)** - BPM engine built for construction processes.
+- **[Babygit](https://github.com/babygit-dev)** - CLI tool to write atomic commit messages with AI. Yeah... That was before vibe-coding and all this stuff tho.
+- **[Telegit](telegit.io)** - Free-to-use and settings-rich GitLab -> Telegram webhook manager.
