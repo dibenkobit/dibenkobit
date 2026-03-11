@@ -4,7 +4,7 @@ On-hands EM at [Tele2 Kazakhstan](https://tele2.kz/).
 
 ### Products
 - **[Concilium](https://concilium.network)** — Instead of asking one chatbot, get a debated, challenged, thoughtful answer from council of AI's.
-- **[ExoForm](https://github.com/ExoForm)** - Voice-to-Voice feels like real interview prep with AI.
+- **[ExoForm](https://github.com/ExoForm)** - Voice-to-Voice mock interviews with AI that feels like real ones.
 - **[SoundsRight](https://github.com/Sounds-Right-App)** - A mobile application to train your English pronounciation on any your voice memo (e.g. reading a book out loud).
 
 ### LLMs
