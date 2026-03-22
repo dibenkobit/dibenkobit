@@ -16,5 +16,5 @@ On-hands EM at [Tele2 Kazakhstan](https://tele2.kz/). Love building useful thing
 
 ### Products
 - **[Photon Solutions](https://github.com/photon-development)** - BPM engine built for construction processes.
-- **[Babygit](https://github.com/babygit-dev)** - CLI tool to write atomic commit messages with AI. Yeah... That was before vibe-coding and all this stuff tho.
+- **[Babygit](https://github.com/babygit-dev)** - CLI tool to write atomic commit messages with AI.
 - **[Telegit](telegit.io)** - Free-to-use and settings-rich GitLab -> Telegram webhook manager.
